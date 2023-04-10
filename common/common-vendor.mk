@@ -689,6 +689,7 @@ PRODUCT_COPY_FILES += \
     vendor/sony/nagara/common/proprietary/vendor/firmware/evass.b19:$(TARGET_COPY_OUT_VENDOR)/firmware/evass.b19 \
     vendor/sony/nagara/common/proprietary/vendor/firmware/evass.mbn:$(TARGET_COPY_OUT_VENDOR)/firmware/evass.mbn \
     vendor/sony/nagara/common/proprietary/vendor/firmware/evass.mdt:$(TARGET_COPY_OUT_VENDOR)/firmware/evass.mdt \
+    vendor/sony/nagara/common/proprietary/vendor/firmware/gmu_gen70000.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/gmu_gen70000.bin \
     vendor/sony/nagara/common/proprietary/vendor/firmware/tzsecuredata.b00:$(TARGET_COPY_OUT_VENDOR)/firmware/tzsecuredata.b00 \
     vendor/sony/nagara/common/proprietary/vendor/firmware/tzsecuredata.b01:$(TARGET_COPY_OUT_VENDOR)/firmware/tzsecuredata.b01 \
     vendor/sony/nagara/common/proprietary/vendor/firmware/tzsecuredata.b02:$(TARGET_COPY_OUT_VENDOR)/firmware/tzsecuredata.b02 \
